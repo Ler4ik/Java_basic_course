@@ -60,7 +60,7 @@ public class Task4 {
         System.out.println(printTextPerRole(roles, textLines));
     }
 
-    private static String printTextPerRole(String[] roles, String[] textLines) {
+    public static String printTextPerRole(String[] roles, String[] textLines) {
         StringBuilder result = new StringBuilder("");
 
         for(String role:roles){
