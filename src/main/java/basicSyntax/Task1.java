@@ -1,4 +1,4 @@
-package arraysAndStrings;
+package basicSyntax;
 
 public class Task1 {
 
